@@ -1,3 +1,7 @@
 name: yujin
 major: computer science and engineering
+<<<<<<< HEAD
 age: 21
+=======
+school: Soongsil University
+>>>>>>> origin/school

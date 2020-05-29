@@ -1,2 +1,6 @@
 name: kimjava
+<<<<<<< HEAD
 age: 20
+=======
+school: Soongsil University
+>>>>>>> origin/school
